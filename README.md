@@ -1,3 +1,5 @@
+Sudheksha K
+Kongu Engineering college
 # ShiftLog - Employee Attendance System 🏢
 
 A modern, full-stack employee attendance tracking system with role-based access control for Employees and Managers.
